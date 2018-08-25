@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/round_home_white_24dp"
+        android:title="@string/nav_home" />
+    <item
+        android:id="@+id/nav_library"
+        android:icon="@drawable/round_library_music_white_24dp"
+        android:title="@string/nav_library" />
+    <item
+        android:id="@+id/nav_playlists"
+        android:icon="@drawable/round_playlist_play_white_24dp"
+        android:title="@string/nav_playlists" />
+</menu>
